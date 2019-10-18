@@ -31,6 +31,11 @@ layout: default
         <h3>
           <a class="post-link" href="{{ post.url | relative_url }}">
             {{ post.title | escape }}
+            <br>
+            <!-- call the featured-post-image.html template file -->
+            {% if post.featured-image %}
+            {% include post-featured-image.html image=post.featured-image alt=post.featured-image-alt %}
+            {% endif %}
           </a>
         </h3>
         {%- if site.show_excerpts -%}
