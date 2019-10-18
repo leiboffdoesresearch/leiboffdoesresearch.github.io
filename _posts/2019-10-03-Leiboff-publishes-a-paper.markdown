@@ -6,7 +6,9 @@ categories: research update publication sorghum maize
 featured-image: hourglass_promo.jpg
 featured-image-alt: A maize-sorghum transcriptional hourglass
 ---
-Check out our new research on the gene expression dynamics of developing maize and sorghum panicles in [Current Biology][currentbiology]. I had a lot of fun dissecting, imaging, and performing RNA sequencing on so many immature maize and sorghum inflorescences. They're _beautiful_ up close! ![alt text][immature_inflorescences]
+Check out our new research on the gene expression dynamics of developing maize and sorghum panicles in [Current Biology][currentbiology]. I had a lot of fun dissecting, imaging, and performing RNA sequencing on so many immature maize and sorghum inflorescences. They're _beautiful_ up close!
+
+![alt text][immature_inflorescences]
 
 
 

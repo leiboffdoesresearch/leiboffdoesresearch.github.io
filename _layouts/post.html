@@ -13,15 +13,15 @@ layout: default
       {%- if page.author -%}
         • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ page.author | escape }}</span></span>
       {%- endif -%}
-      <!-- call the featured-post-image.html template file -->
-      {% if page.featured-image %}
-      <br>
-      {% include post-featured-image.html image=page.featured-image alt=page.featured-image-alt %}
-      {% endif %}
     </p>
   </header>
 
   <div class="post-content e-content" itemprop="articleBody">
+    <!-- call the featured-post-image.html template file -->
+    {% if page.featured-image %}
+    {% include post-featured-image.html image=page.featured-image alt=page.featured-image-alt %}
+    {% endif %}
+
     {{ content }}
   </div>
 
