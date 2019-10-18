@@ -2,7 +2,7 @@
 layout: post
 title:  "Leiboff publishes a paper!"
 date:   2019-10-03 14:07:18 -0700
-categories: research update publication sorghum maize
+categories: research publication
 featured-image: hourglass_promo.jpg
 featured-image-alt: A maize-sorghum transcriptional hourglass
 ---
