@@ -16,18 +16,24 @@
 title: Leiboff does Research
 email: leiboffdoesresearch@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  A plant genomics data and code sharing website. Home of COGS RNAseq for maize tassel
-  and sorghum panicle datasets.
+  The Leiboff Lab website. We use genetics to understand grass development.
+  Home of COGS RNAseq for maize tassel and sorghum panicle datasets.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: plantsoverpants
 github_username:  leiboffdoesresearch
+
+collections:
+  current_people:
+    output: true
+  past_people:
 
 # Build settings
 markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

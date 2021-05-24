@@ -1,0 +1,17 @@
+---
+layout: default
+---
+<article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <div class="post-content e-content" itemprop="articleBody">
+    <!-- call the featured-post-image.html template file -->
+    {% if page.profile-image %}
+    {% include people-profile-image.html image=page.profile-image alt=page.profile-image-alt %}
+    {% endif %}
+    <p>
+      {{ content }}
+    </p>
+  </div>
+
+  <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
+</article>
