@@ -53,6 +53,9 @@ The Greenhouse
 
 The Nursery @ [the OSU BPP Farm][farm]{:target="_blank"}
 ------------------
-The lab plants a 1-acre summer nursery at the OSU Botany and Plant Pathology Farm. Most NA-adapted maize and sorghum germplasm grows well during our mild, dry summers.
+![alt text][field]{:style="float: left;padding: 10px" height="50%" width="50%"}  The lab plants a 1-acre summer nursery at the [OSU Botany and Plant Pathology Farm][BPP_farm_website]{:target="_blank"}. Field preparation, treatment, and watering are managed by the awesome Botany Field Lab manager and staff. Most NA-adapted maize and sorghum germplasm grows well during our mild, dry summers. Our field season is typically June - October, with our spooky corn collected in time for Halloween.
 
+[field]: /assets/field.jpg "Leiboff Lab summer nursery"
+
+[BPP_farm_website]: https://agsci.oregonstate.edu/botany-field-lab/botany-field-lab
 [farm]: https://goo.gl/maps/yjeQgn78sH1FsKA56
