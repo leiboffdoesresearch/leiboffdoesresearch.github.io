@@ -44,7 +44,7 @@ The Lab @ [3618 Cordley Hall][cord]{:target="_blank"}
 
 To examine development at the cellular level, we have a Leica DMi8 THUNDER inverted microscope and a Leica M205 FCA THUNDER stereoscope, which enables studies of entire tissues and live plant dissections. Both scopes are equipped with epifluorescence and Leica's THUNDER computational dehazing method for near-subcellular resolution. We routinely use paraffin-embeded tissue histology and the preparation of microscope slides for plant anatomy.
 
-![alt text][dmi8]{:style="float: center;padding: 5px" height="95%" width="95%"} | ![alt text][fca205]{:style="float: center;padding: 5px" height="95%" width="95%"}
+![alt text][dmi8]{:style="float: center;padding: 5px" } | ![alt text][fca205]{:style="float: center;padding: 5px" }
 
 The lab has typical molecular biology equipment, including thermal cyclers, incubators, and centrifuges. Through the Botany and Plant Pathology department, we also have access to high throughput tissue homogenization tools, a liquid handling robotics platform, qRT-PCR machines, cell sorting equipment, and a walk in seed storage room. Through the OSU [Center for Quantitative Life Sciences][cqls_website]{:target="_blank"}, we have access to confocal microscopy, genomic library preparation / sequencing, and priority queing for high performance computing.
 
