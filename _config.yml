@@ -27,6 +27,9 @@ collections:
   current_people:
     output: true
   past_people:
+    output: true
+  current_project:
+    output: true
 
 # Build settings
 markdown: kramdown

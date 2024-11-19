@@ -8,4 +8,21 @@ Plants make a beautiful diversity of leaves, branches, stems, flowers, and other
 
 The lab is broadly interested in the way that gene expression dynamics lead to changes in shape and size during development. We work at the scale of single cell morphology, all the way up to comparing the ways that different species produce complex shapes. Our efforts are mainly focused on the genetics that give maize, sorghum, and other grass leaves and infloresceneces their characteristic properties.
 
+Current Projects
+==================
+<div>
+  {% for project in site.current_project %}
+      <h2>{{ project.name }}</h2>
+      <div style="overflow: hidden;">
+        {% if project.profile-image %}
+        {% include project-profile-image.html image=project.profile-image alt=project.profile-image-alt %}
+        {% endif %}
+      <p>{{ project.content | markdownify }}</p></div>
+  {% endfor %}
+</div>
+
+<br>
+<br>
+
+
 {% include image-gallery.html folder="/assets/research" %}
